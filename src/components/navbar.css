@@ -1,0 +1,18 @@
+div{
+  height: 10vh;
+  width: 100vw;
+  background: #3eb46b;
+}
+
+.lefticon{
+  text-align: left;
+  width: 30vw;
+  height: 10vh;
+}
+
+#logo{
+  /* text-align: center; */
+  margin: auto;
+  padding: 2;
+  height: 7vh;
+}
